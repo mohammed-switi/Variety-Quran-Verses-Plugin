@@ -30,7 +30,6 @@ This is a plugin for the [Variety](https://github.com/varietywalls/variety) wall
 2. **Copy the plugin to the Variety plugin directory:**
 
    ```bash
-   mkdir -p ~/.config/variety/plugins
    cp QuranVersesPlugin/QuranVersesSource.py ~/.config/variety/plugins/
    ```
 
